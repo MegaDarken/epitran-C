@@ -1,0 +1,3 @@
+[submodule "epitran-c/Shared-C"]
+	path = epitran-c/Shared-C
+	url = git@github.com:MegaDarken/Shared-C.git
